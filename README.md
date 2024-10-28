@@ -64,7 +64,7 @@ Modify the Create View so that the user does not see the “Quote” input field
 
 Email all database .mdf and .ldf files to an Instructor. These are located in your project’s app_data folder.
 
-## EFApp
+## Final Assignment (EFApp)
 Create a basic Entity Framework Code-First console application that creates a basic Student database and adds one student.
 
 IMPORTANT NOTE: If you use the below HELPFUL LINK, do not continue past “Note: If you modify these classes and run the application again, then it will throw the following exception.” The steps that follow this webpage (such as “Code-First Conventions” and “DB Initialization”) are not required for the purposes of this challenge. All that is required is the code given on the webpage provided below.
